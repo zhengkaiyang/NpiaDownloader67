@@ -1,6 +1,7 @@
 # NovelpiaDownloader
 
 A fork of that enhances the user experience and output quality. This version adds comprehensive metadata (tags, author, synopsis), improves EPUB formatting with HTML tag and newline support, includes file size optimization, and much more\!
+gui2现在支持批量下载小说，只需要在每个小说id之间用空格分隔即可，js代码用来获取np当前页的全部小说id。
 
 -----
 
